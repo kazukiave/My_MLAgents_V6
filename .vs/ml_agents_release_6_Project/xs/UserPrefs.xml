@@ -1,0 +1,63 @@
+﻿<Properties StartupConfiguration="{1FF53E79-E75B-868D-997F-B91C847E5F93}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My-MLAgents/Hunter/Scripts/WireFrameRender.cs">
+    <Files>
+      <File FileName="Assets/My-MLAgents/BarracudaTest/Scripts/Predictor.cs" Line="54" Column="28" IsPinned="True" />
+      <File FileName="Library/PackageCache/com.unity.barracuda@1.0.2/Barracuda/Tests/Editor/BasicNNInferenceTestSuite.cs" />
+      <File FileName="Library/PackageCache/com.unity.barracuda@1.0.2/Barracuda/Runtime/Plugins/OSX/MacBLAS.cs" />
+      <File FileName="Assets/My-MLAgents/BarracudaTest/Scripts/BottleMeshTest.cs" />
+      <File FileName="Assets/My-MLAgents/BarracudaTest/Scripts/TerrainGeneratorEndless.cs" />
+      <File FileName="Assets/My-MLAgents/BarracudaTest/Scripts/MakeMeshTest.cs" />
+      <File FileName="Assets/My-MLAgents/BarracudaTest/Scripts/CalcBezier.cs" />
+      <File FileName="Assets/My-MLAgents/BarracudaTest/Scripts/BottleAgent.cs" />
+      <File FileName="Assets/ML-Agents/Examples/GridWorld/Scripts/GridAgent.cs" />
+      <File FileName="../config/ppo/BottleOptimizer.yaml" />
+      <File FileName="Assets/My-MLAgents/Hunter/Scripts/WireFrameRender.cs" Line="1" Column="1" />
+      <File FileName="Assets/My-MLAgents/Hunter/Scripts/WireFrameRender.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ml_agents_release_6_Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ML-Agents" expanded="True">
+                <Node name="Examples" expanded="True">
+                  <Node name="GridWorld" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="VideoRecorder" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="My-MLAgents" expanded="True">
+                <Node name="BarracudaTest" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="Hunter" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="WireFrameRender.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ml_agents_release_6_Project" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="38d727ba-f0d1-4700-a370-195c680345c3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
