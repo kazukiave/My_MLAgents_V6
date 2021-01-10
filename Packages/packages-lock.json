@@ -86,7 +86,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ml-agents": {
-      "version": "file:/Users/kazuki/Documents/IAMAS/EmotionalDesign/ml-agents-release_6/com.unity.ml-agents",
+      "version": "file:/Users/kazuki/Documents/Unity/ml-agents-release_6/com.unity.ml-agents",
       "depth": 0,
       "source": "local",
       "dependencies": {

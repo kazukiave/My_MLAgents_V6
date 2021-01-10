@@ -29,6 +29,8 @@ TagManager:
   - symbol_O_Goal
   - purpleAgent
   - purpleGoal
+  - hunter
+  - boundry
   layers:
   - Default
   - TransparentFX
